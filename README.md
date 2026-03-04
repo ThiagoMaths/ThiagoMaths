@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá, eu sou Thiago Matheus
 
-<!--
-**ThiagoMaths/ThiagoMaths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software
+🧪 Tecnologia aplicada à Medicina Laboratorial
+📊 Interseção entre **engenharia de software, dados e saúde**
 
-Here are some ideas to get you started:
+Atualmente trabalhando em projetos de **monitoramento de qualidade analítica e automação laboratorial**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+Java • Spring Boot • Python • SQL • Docker • Git • Linux
+
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📂 Projetos em destaque
+
+🔬 **VerityLabs**
+Sistema de monitoramento da qualidade analítica em equipamentos laboratoriais.
+
+📊 **Laboratory Dashboard**
+Dashboard para acompanhamento de indicadores laboratoriais.
+
+⚙️ **Controle de Estoque Laboratorial**
+Sistema desenvolvido em Java + Spring para gestão de insumos.
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura de Software
+* Engenharia de Dados
+* Sistemas distribuídos
+* Machine Learning aplicado à saúde
+
+---
+
+## 📫 Contato
+
+LinkedIn
+Email
+Portfólio
