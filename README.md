@@ -1,51 +1,67 @@
-# 👋 Olá, eu sou Thiago Matheus
+# Hey, I'm Thiago
 
-💻 Desenvolvedor de Software
-🧪 Tecnologia aplicada à Medicina Laboratorial
-📊 Interseção entre **engenharia de software, dados e saúde**
+Software Engineer focused on Data Systems, Artificial Intelligence and Health Tech.
 
-Atualmente trabalhando em projetos de **monitoramento de qualidade analítica e automação laboratorial**.
+## 🧠 What I build
 
----
+I develop systems focused on:
 
-## 🚀 Tecnologias
+* Laboratory data quality
+* Process automation
+* Data analysis and intelligent systems
 
-Java • Spring Boot • Python • SQL • Docker • Git • Linux
+## 🧪 Main Projects
 
----
+Most of my work is available in my organization:
 
-## 📊 Estatísticas
+👉 [VerityLabs](https://github.com/VerityLabs-Systems/veritylabs)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+## 🚀 Current Focus
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+* AI applied to healthcare
+* Data systems
+* Backend and automation
 
----
+## 🛠️ Tech Stack
 
-## 📂 Projetos em destaque
+Java • Spring Boot • Selenium • REST Assured • Python • SQL
 
-🔬 **VerityLabs**
-Sistema de monitoramento da qualidade analítica em equipamentos laboratoriais.
+## 📫 Contact
 
-📊 **Laboratory Dashboard**
-Dashboard para acompanhamento de indicadores laboratoriais.
-
-⚙️ **Controle de Estoque Laboratorial**
-Sistema desenvolvido em Java + Spring para gestão de insumos.
+* [LinkedIn](https://www.linkedin.com/in/thiago-maths1/)
+* Email: (thiago.matheus.barbosa@outlook.com)
 
 ---
 
-## 📚 Atualmente estudando
+# 👋 Olá, eu sou o Thiago
 
-* Arquitetura de Software
-* Engenharia de Dados
-* Sistemas distribuídos
-* Machine Learning aplicado à saúde
+Engenheiro de Software focado em Sistemas de Dados, Inteligência Artificial e Health Tech.
 
----
+## 🧠 O que eu construo
+
+Desenvolvo sistemas voltados para:
+
+* Qualidade de dados laboratoriais
+* Automação de processos
+* Análise de dados e sistemas inteligentes
+
+## 🧪 Projetos principais
+
+A maior parte dos meus projetos está na organização:
+
+👉 [VerityLabs](https://github.com/VerityLabs-Systems/veritylabs)
+
+## 🚀 Foco atual
+
+* IA aplicada à saúde
+* Sistemas de dados
+* Backend e automação
+
+## 🛠️ Tecnologias
+
+Java • Spring Boot • Selenium • REST Assured • Python • SQL
 
 ## 📫 Contato
 
-LinkedIn
-Email
-Portfólio
+* [LinkedIn](https://www.linkedin.com/in/thiago-maths1/)
+* Email: (thiago.matheus.barbosa@outlook.com)
