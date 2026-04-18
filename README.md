@@ -2,7 +2,7 @@
 
 Software Engineer focused on Data Systems, Artificial Intelligence and Health Tech.
 
-## 🧠 What I build
+## 🔎 What I build
 
 I develop systems focused on:
 
@@ -10,19 +10,19 @@ I develop systems focused on:
 * Process automation
 * Data analysis and intelligent systems
 
-## 🧪 Main Projects
+## 🏭 Main Projects
 
 Most of my work is available in my organization:
 
 👉 [VerityLabs](https://github.com/VerityLabs-Systems/veritylabs)
 
-## 🚀 Current Focus
+## 🔭 Current Focus
 
 * AI applied to healthcare
 * Data systems
 * Backend and automation
 
-## 🛠️ Tech Stack
+## 💡 Tech Stack
 
 Java • Spring Boot • Selenium • REST Assured • Python • SQL
 
@@ -37,7 +37,7 @@ Java • Spring Boot • Selenium • REST Assured • Python • SQL
 
 Engenheiro de Software focado em Sistemas de Dados, Inteligência Artificial e Health Tech.
 
-## 🧠 O que eu construo
+## 🔎 O que eu construo
 
 Desenvolvo sistemas voltados para:
 
@@ -45,19 +45,19 @@ Desenvolvo sistemas voltados para:
 * Automação de processos
 * Análise de dados e sistemas inteligentes
 
-## 🧪 Projetos principais
+## 🏭 Projetos principais
 
 A maior parte dos meus projetos está na organização:
 
 👉 [VerityLabs](https://github.com/VerityLabs-Systems/veritylabs)
 
-## 🚀 Foco atual
+## 🔭 Foco atual
 
 * IA aplicada à saúde
 * Sistemas de dados
 * Backend e automação
 
-## 🛠️ Tecnologias
+## 💡 Tecnologias
 
 Java • Spring Boot • Selenium • REST Assured • Python • SQL
 
