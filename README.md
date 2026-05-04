@@ -56,8 +56,7 @@ Atualmente estou construindo uma base prática em eletrônica e sistemas embarca
 
 ### Áreas de estudo
 
-- Circuitos elétricos e eletrônica básica
-- Leis de Kirchhoff, análise de circuitos e simulação
+- Circuitos elétricos e eletrônica 
 - Microcontroladores com Arduino e ESP32
 - C/C++ para sistemas embarcados
 - Linux como ambiente de desenvolvimento
