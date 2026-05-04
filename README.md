@@ -82,15 +82,6 @@ Repositório em construção para estudos de eletrônica, circuitos, microcontro
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoMaths&show_icons=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMaths&layout=compact" />
-</p>
-
----
-
 ## 🎯 Foco atual
 
 - Engenharia da Computação com excelência
