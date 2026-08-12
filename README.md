@@ -1,98 +1,123 @@
-<h1 align="center">Olá, eu sou o Thiago 👋</h1>
+<h1 align="center">Thiago Matheus</h1>
 
 <p align="center">
-  <b>Software Engineering | Data Systems | Embedded Systems | Automation | Health Tech</b>
+  <b>Biomedical Data Science • Computational Health • Oncology & Immunology</b>
 </p>
 
 <p align="center">
-  Construindo uma trajetória entre <b>software</b>, <b>dados</b>, <b>eletrônica</b> 
-  e <b>tecnologias aplicadas à saúde</b>.
+  Biomedicine undergraduate with a background in clinical laboratory science and software development,<br>
+  building a research-oriented path at the intersection of <b>biomedicine, statistics and computation</b>.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-maths1">LinkedIn</a> •
+  <a href="http://lattes.cnpq.br/6023520764138519">Lattes</a> •
   <a href="mailto:thiago.matheus.barbosa@outlook.com">Email</a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🔬 About me
 
-- 💻 Desenvolvedor com foco em **Java, automação, backend e sistemas de dados**
-- 🧪 Experiência e interesse em **Health Tech**, **qualidade de dados laboratoriais** e **tecnologia aplicada à saúde**
-- ⚙️ Estudando **eletrônica**, **sistemas embarcados**, **Linux** e **engenharia aplicada**
-- 🔬 Construindo projetos que conectam **software**, **laboratório**, **dados** e **hardware**
-- 📚 Atualmente fortalecendo bases em **circuitos elétricos**, **C/C++**, **cálculo** e **microcontroladores**
+- 🧬 Undergraduate student in **Biomedicine**
+- 🧪 Technical background in **Clinical Laboratory Science / Clinical Analysis**
+- 💻 Graduate in **Systems Analysis and Development**
+- 📊 Building expertise in **Biomedical Data Science**, with emphasis on statistics, reproducible analysis and scientific programming
+- 🎯 Main scientific interests: **oncology, immunology, hematology and treatment-response data**
+- 🔎 Interested in using computational and quantitative methods to answer biologically and clinically meaningful questions
 
 ---
 
-## 🛠️ Tech Stack & Estudos
+## 🧠 Research interests
 
-### 💻 Software & Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+My current goal is to develop projects in which computation is not only a technical layer, but part of the scientific reasoning itself.
+
+Areas of interest include:
+
+- Biomedical and clinical data analysis
+- Oncology and hematology datasets
+- Immunology and immunotherapy
+- Biomarkers and treatment response
+- Statistical inference and predictive modeling
+- Reproducible scientific workflows
+- Bioinformatics and computational biology
+
+---
+
+## 📚 Current learning path
+
+### Quantitative foundations
+- Probability and statistics
+- Statistical inference
+- Regression and predictive modeling
+- Linear algebra and mathematical foundations for data analysis
+
+### Scientific computing
+- Python for data analysis
+- R for statistics and biomedical research
+- SQL and data management
+- Data visualization
+- Machine learning fundamentals
+- Reproducible research workflows
+
+---
+
+## 🛠️ Technical stack
+
+### Data & Scientific Computing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🧪 Quality & Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST_Assured-16A085?style=for-the-badge)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-
-### ⚙️ Hardware, Embedded & Engineering Studies
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+### Software Engineering Background
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🔬 Engineering Lab
+## 🧪 Biomedical Data Science portfolio
 
-Atualmente estou construindo uma base prática em eletrônica e sistemas embarcados, com foco em aplicações para saúde, laboratórios e automação.
+This profile is being reorganized around progressively more rigorous biomedical data projects.
 
-### Áreas de estudo
+Each project will aim to document:
 
-- Circuitos elétricos e eletrônica 
-- Microcontroladores com Arduino e ESP32
-- C/C++ para sistemas embarcados
-- Linux como ambiente de desenvolvimento
-- Instrumentação, sensores e aquisição de dados
-- Projetos conectando hardware, software e análise de dados
+1. **Scientific question**
+2. **Hypothesis or analytical objective**
+3. **Dataset and variable definitions**
+4. **Exploratory data analysis**
+5. **Statistical or computational methodology**
+6. **Validation and limitations**
+7. **Biomedical interpretation**
+8. **Reproducible code and documentation**
 
----
-
-## 📌 Projetos em destaque
-
-### 🔹 Java Selenium Cucumber Framework
-Framework de automação web com foco em testes escaláveis, organização de cenários e boas práticas de qualidade.
-
-### 🔹 REST Assured Automation Core
-Base reutilizável para automação de APIs com Java, REST Assured e estrutura pensada para manutenção.
-
-### 🔹 VerityLabs
-Organização voltada para projetos de **Health Tech**, **qualidade de dados laboratoriais**, **automação** e **sistemas inteligentes**.
-
-### 🔹 Embedded & Electronics Studies
-Repositório em construção para estudos de eletrônica, circuitos, microcontroladores, C/C++ e sistemas embarcados aplicados.
+The goal is not simply to apply algorithms, but to connect quantitative methods to meaningful biomedical questions.
 
 ---
 
-## 🎯 Foco atual
+## 💻 Selected software engineering work
 
-- Engenharia da Computação com excelência
-- Eletrônica básica e análise de circuitos
-- Cálculo e fundamentos de engenharia
-- Sistemas embarcados com C/C++ e ESP32
-- Backend com Java e Spring Boot
-- Projetos que conectem **software + hardware + saúde + laboratório**
+My previous software projects remain part of my technical foundation and demonstrate experience with software architecture, testing and automation.
+
+- **[Java Selenium Cucumber Framework](https://github.com/ThiagoMaths/Java-Selenium-Cucumber-Framework)** — automated web testing framework with BDD, Page Object Model, parallel execution and CI/CD.
+- **[REST Assured Automation Core](https://github.com/ThiagoMaths/restassured-automation-core)** — API test automation foundation using Java and REST Assured.
 
 ---
 
-## 📫 Contato
+## 🎯 Current direction
+
+I am building a profile focused on the integration of:
+
+**Biomedicine + Statistics + Data Science + Scientific Programming**
+
+with the long-term objective of contributing to biomedical and oncology research through rigorous quantitative analysis.
+
+---
+
+## 📫 Contact
 
 - LinkedIn: [thiago-maths1](https://www.linkedin.com/in/thiago-maths1)
+- Lattes: [Currículo Lattes](http://lattes.cnpq.br/6023520764138519)
 - Email: thiago.matheus.barbosa@outlook.com
