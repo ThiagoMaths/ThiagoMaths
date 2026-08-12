@@ -99,10 +99,9 @@ The goal is not simply to apply algorithms, but to connect quantitative methods 
 
 ## 💻 Selected software engineering work
 
-My previous software projects remain part of my technical foundation and demonstrate experience with software architecture, testing and automation.
+My software engineering background remains part of my technical foundation, particularly in software architecture, automated testing and continuous integration.
 
-- **[Java Selenium Cucumber Framework](https://github.com/ThiagoMaths/Java-Selenium-Cucumber-Framework)** — automated web testing framework with BDD, Page Object Model, parallel execution and CI/CD.
-- **[REST Assured Automation Core](https://github.com/ThiagoMaths/restassured-automation-core)** — API test automation foundation using Java and REST Assured.
+- **[Java Selenium Cucumber Framework](https://github.com/ThiagoMaths/Java-Selenium-Cucumber-Framework)** — automated web testing framework with BDD, Page Object Model, parallel execution, reporting and CI/CD.
 
 ---
 
