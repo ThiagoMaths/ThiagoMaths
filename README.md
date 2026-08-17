@@ -1,12 +1,12 @@
 <h1 align="center">Thiago Matheus</h1>
 
 <p align="center">
-  <b>Biomedical Data Science • Computational Health • Oncology & Immunology</b>
+  <b>Biomedical Data Science • Laboratory Informatics • Biomedical Research</b>
 </p>
 
 <p align="center">
-  Biomedicine undergraduate with a background in clinical laboratory science and software development,<br>
-  building a research-oriented path at the intersection of <b>biomedicine, statistics and computation</b>.
+  Biomedicine undergraduate with a technical background in clinical laboratory science and a degree in Systems Analysis and Development,<br>
+  building a research-oriented path at the intersection of <b>biomedicine, statistics, data and laboratory information systems</b>.
 </p>
 
 <p align="center">
@@ -22,50 +22,53 @@
 - 🧬 Undergraduate student in **Biomedicine**
 - 🧪 Technical background in **Clinical Laboratory Science / Clinical Analysis**
 - 💻 Graduate in **Systems Analysis and Development**
-- 📊 Building expertise in **Biomedical Data Science**, with emphasis on statistics, reproducible analysis and scientific programming
-- 🎯 Main scientific interests: **oncology, immunology, hematology and treatment-response data**
-- 🔎 Interested in using computational and quantitative methods to answer biologically and clinically meaningful questions
+- 📊 Developing expertise in **Biomedical Data Science**, with emphasis on statistics, reproducible analysis and scientific programming
+- 🧫 Interested in the interface between **laboratory workflows, information systems and biomedical data**
+- 🔎 Focused on using quantitative and computational methods to answer biologically and clinically meaningful questions
 
 ---
 
 ## 🧠 Research interests
 
-My current goal is to develop projects in which computation is not only a technical layer, but part of the scientific reasoning itself.
+My goal is to develop projects in which computation is not merely a technical layer, but part of the scientific reasoning itself.
 
-Areas of interest include:
+Current areas of interest include:
 
 - Biomedical and clinical data analysis
-- Oncology and hematology datasets
 - Immunology and immunotherapy
+- Hematology and oncology datasets
 - Biomarkers and treatment response
 - Statistical inference and predictive modeling
-- Reproducible scientific workflows
 - Bioinformatics and computational biology
+- Reproducible scientific workflows
+- Laboratory informatics and clinical laboratory data
 
 ---
 
-## 📚 Current learning path
+## 📚 Current development focus
 
-### Quantitative foundations
-- Probability and statistics
+### Statistics and scientific reasoning
+- Probability and applied statistics
+- Exploratory data analysis
 - Statistical inference
 - Regression and predictive modeling
-- Linear algebra and mathematical foundations for data analysis
+- Study design, variables, bias and confounding
+- Critical interpretation of biomedical evidence
 
 ### Scientific computing
-- Python for data analysis
-- R for statistics and biomedical research
+- **R for statistics and biomedical research**
 - SQL and data management
 - Data visualization
-- Machine learning fundamentals
-- Reproducible research workflows
+- Reproducible analysis workflows
+- Git and GitHub for version control and research documentation
+
+> Current priority: strengthening statistical reasoning and R before expanding the scientific programming stack.
 
 ---
 
-## 🛠️ Technical stack
+## 🛠️ Technical foundation
 
 ### Data & Scientific Computing
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,50 +76,46 @@ Areas of interest include:
 
 ### Software Engineering Background
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+My previous software engineering experience remains part of my technical foundation, especially in software architecture, automated testing, version control and continuous integration.
 
 ---
 
-## 🧪 Biomedical Data Science portfolio
+## 🧪 Biomedical Data Science methodology
 
-This profile is being reorganized around progressively more rigorous biomedical data projects.
+Biomedical data projects in this profile are structured around scientific questions rather than around algorithms alone.
 
-Each project will aim to document:
+Whenever applicable, each project should document:
 
 1. **Scientific question**
 2. **Hypothesis or analytical objective**
-3. **Dataset and variable definitions**
+3. **Dataset provenance and variable definitions**
 4. **Exploratory data analysis**
 5. **Statistical or computational methodology**
-6. **Validation and limitations**
-7. **Biomedical interpretation**
-8. **Reproducible code and documentation**
+6. **Assumptions, validation and diagnostics**
+7. **Potential bias, confounding and limitations**
+8. **Biomedical interpretation**
+9. **Reproducible code and documentation**
 
-The goal is not simply to apply algorithms, but to connect quantitative methods to meaningful biomedical questions.
+The objective is to connect quantitative methods to meaningful biomedical questions while making the analytical reasoning transparent and reproducible.
 
 ---
 
 ## 💻 Selected software engineering work
 
-My software engineering background remains part of my technical foundation, particularly in software architecture, automated testing and continuous integration.
+### [Java Selenium Cucumber Framework](https://github.com/ThiagoMaths/Java-Selenium-Cucumber-Framework)
 
-- **[Java Selenium Cucumber Framework](https://github.com/ThiagoMaths/Java-Selenium-Cucumber-Framework)** — automated web testing framework with BDD, Page Object Model, parallel execution, reporting and CI/CD.
+Automated web testing framework using Java, Selenium and Cucumber, with Page Object Model, parallel execution, automated reporting and CI/CD.
 
----
-
-## 🎯 Current direction
-
-I am building a profile focused on the integration of:
-
-**Biomedicine + Statistics + Data Science + Scientific Programming**
-
-with the long-term objective of contributing to biomedical and oncology research through rigorous quantitative analysis.
+This project is retained as evidence of my software engineering background and of the technical foundation I bring into scientific computing.
 
 ---
 
-## 📫 Contact
+## 🎯 Direction
 
-- LinkedIn: [thiago-maths1](https://www.linkedin.com/in/thiago-maths1)
-- Lattes: [Currículo Lattes](http://lattes.cnpq.br/6023520764138519)
-- Email: thiago.matheus.barbosa@outlook.com
+I am building a profile centered on the integration of:
+
+**Biomedicine + Statistics + Data Science + Laboratory Informatics + Scientific Programming**
+
+The long-term objective is to contribute to biomedical research through rigorous quantitative analysis, reproducible workflows and computational methods grounded in biological and clinical questions.
